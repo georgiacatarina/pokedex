@@ -1,7 +1,5 @@
 node_modules
-
-src/dist
-
+src/dist/
+package-lock.json
 .vscode
-
 .DS_Store
