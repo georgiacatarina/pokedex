@@ -9,10 +9,10 @@ const PokemonDetail = ({ pokemon }) => {
     return (
         <Container>
         <Row>
-        <Col sm="6">
+        <Col sm="4">
             <Card>
                 <CardHeader>Nome: {name} ID: {id}</CardHeader>
-                <CardImg top width="100%" src={sprite} alt={name} />
+                <CardImg top src={sprite} alt={name} />
                 <CardBody>
                     <CardTitle>Informações</CardTitle>
                     <h4>Tipo: </h4>

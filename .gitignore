@@ -1,5 +1,5 @@
 node_modules/
-*src/dist/
+/src/dist/*
 .DS_Store
 src/.DS_Store
 src/components/.DS_Store
